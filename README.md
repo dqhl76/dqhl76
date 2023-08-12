@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently studying in Beijing
 - 🌱 I‘m currently learning Rust
-- 💬 Ask me about anything you like
-- 🏠 Welcome: https://realdqhl.com/
+- ⚡ I was interested in DEFI and NFT, check my address: [hertzlook.eth](https://etherscan.io/name-lookup-search?id=hertzlook.eth)
+- 💬 Ask me about anything you like: dqhl76@gmail.com
 
 
 ![Metrics](/github-metrics.svg)
