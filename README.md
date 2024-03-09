@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=dqhl76&style=flat-square)
 
 - 🔭 Currently studying in Beijing; planning to study in Hong Kong next year.
 - 🌱 Contributing to [Apache OpenDAL](https://github.com/apache/opendal): A unified data access layer helps to access data freely
