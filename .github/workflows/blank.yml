@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -21,9 +21,8 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
+          filename: github-metrics.svg
           # Options
           user: dqhl76
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
